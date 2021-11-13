@@ -8,8 +8,6 @@ public class OcCourseApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OcCourseApplication.class, args);
-		
-		System.out.println("Program launched");
 	}
 
 }
